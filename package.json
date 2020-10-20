@@ -1,0 +1,22 @@
+{
+  "name": "learnnpm",
+  "version": "1.0.0",
+  "description": "learning npm ",
+  "main": "script.js",
+  "scripts": {
+    "test": "onelle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveNoyes/ln.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "steven m. noyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveNoyes/ln/issues"
+  },
+  "homepage": "https://github.com/SteveNoyes/ln"
+}
